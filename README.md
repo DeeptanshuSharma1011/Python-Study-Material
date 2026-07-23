@@ -23,7 +23,8 @@ PYTHON/
 ├── 04_iteration_tools/
 ├── 05_functions/
 ├── 06_scopes/
-└── 07_oop/
+├── 07_oop/
+└── 08_decorators/
 ```
 
 ---
