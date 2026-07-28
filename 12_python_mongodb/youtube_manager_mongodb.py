@@ -5,7 +5,7 @@ from pymongo import MongoClient
 from bson import ObjectId
 # pymongo does not convert str into json directly so we import objectid from bson
 
-client = MongoClient("mongodb+srv://pythontutorial:pythontutorial@pythontutorial.hndobwl.mongodb.net/ytmanager")
+client = MongoClient("mongodb+srv://python:python@pythontutorial.hndobwl.mongodb.net/ytmanager")
 # not a good practice to include id and password in the codebase
 # good practice: keep them in .env or .gitignore files
 
