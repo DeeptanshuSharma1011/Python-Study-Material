@@ -17,7 +17,7 @@ This repository is organized topic-wise, making it easy to revise concepts and p
 ```text
 PYTHON/
 │
-├── 01-Basics/
+├── 01_Basics/
 ├── 02_conditionals/
 ├── 03_loops/
 ├── 04_iteration_tools/
@@ -25,6 +25,21 @@ PYTHON/
 ├── 06_scopes/
 ├── 07_oop/
 └── 08_decorators/
+├── 09_error_handling/
+├── 10_database_sqlite3/
+├── 11_handling_apis/
+├── 12_python_mongodb/
+├── 13_virtual_py/
+├── 14_jupyter_notebook/
+├── Advance_topics/
+├─────────├───anonymous_function_lambda/
+          ├── decorators/
+          ├── filter_map_reduce/
+          ├── higher_order_function/
+          ├── inner_function/
+          ├── map_reduce/
+          ├── oop_practice/
+└── Module_Packages/
 ```
 
 ---
@@ -39,6 +54,18 @@ PYTHON/
 - Functions
 - Variable Scope
 - Object-Oriented Programming (OOP)
+- Decorators
+- Error Handling
+- Database SQLite3
+- Handling APIs
+- Python MongoDB
+- Virtual Environment
+- Jupyter Notebook
+- Anonymous Function
+- Filter-Map-Reduce Function
+- Higher order function
+- Inner function
+- Module and Packages
 
 ---
 
