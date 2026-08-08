@@ -24,7 +24,7 @@ PYTHON/
 ├── 05_functions/
 ├── 06_scopes/
 ├── 07_oop/
-├──08_decorators/
+├── 08_decorators/
 ├── 09_error_handling/
 ├── 10_database_sqlite3/
 ├── 11_handling_apis/
