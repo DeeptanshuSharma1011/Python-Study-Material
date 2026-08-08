@@ -24,21 +24,21 @@ PYTHON/
 ├── 05_functions/
 ├── 06_scopes/
 ├── 07_oop/
-└── 08_decorators/
+├──08_decorators/
 ├── 09_error_handling/
 ├── 10_database_sqlite3/
 ├── 11_handling_apis/
 ├── 12_python_mongodb/
 ├── 13_virtual_py/
 ├── 14_jupyter_notebook/
-├── Advance_topics/
-├─────────├───anonymous_function_lambda/
-          ├── decorators/
-          ├── filter_map_reduce/
-          ├── higher_order_function/
-          ├── inner_function/
-          ├── map_reduce/
-          ├── oop_practice/
+└── Advance_topics/
+     ├───anonymous_function_lambda/
+     ├── decorators/
+     ├── filter_map_reduce/
+     ├── higher_order_function/
+     ├── inner_function/
+     ├── map_reduce/
+     ├── oop_practice/
 └── Module_Packages/
 ```
 
